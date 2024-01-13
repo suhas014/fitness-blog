@@ -11,7 +11,7 @@ I used MERN(Mongodb, ExpressJs, ReactJs, NodeJs) stack to make this project.
 ![Home](https://user-images.githubusercontent.com/50578215/148691548-ea45c01b-e7bc-41a9-bcdd-c8bd4db11186.png)
 
 3. About Page
-![About](https://user-images.githubusercontent.com/50578215/148692733-68648d3c-1df1-4efa-ae2d-68eeb446b30b.png)
+![About](https://github.com/suhas014/fitness-blog/blob/main/fix.png)
 
 4. Exercises Page
 ![Explore1](https://user-images.githubusercontent.com/50578215/148692743-d56b8b4e-ce5f-4745-bfa3-6073736fe538.png)
